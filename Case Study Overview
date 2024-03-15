@@ -1,0 +1,22 @@
+Dear Data enthusiasts,
+
+Excited to share SQL Challenge related to the OSCARS 2024 .
+
+Challenge overview:-challenge is to craft SQL queries to extract insights from the OSCARS 2024.
+
+Database Structure:
+The Challenge revolved around Three key tables within the database:
+1)Movies
+2)Nominees
+3)Wieners
+
+Here, I present a segment of the insights derived from OSCARS 2024 Using MySQL.
+
+Functions Used in This Case Study:
+->`SELECT`: Retrieves data from one or more tables.
+->`GROUP BY`: Groups rows based on a specified column
+->`ORDER BY`: Sorts the result set based on specified columns.
+-> 'joins' : To combine data from multiple tables.
+
+Software's used :-
+My SQL-for Query building & Analysis
